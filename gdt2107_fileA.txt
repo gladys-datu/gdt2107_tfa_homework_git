@@ -3,3 +3,5 @@ Hi! This is Gladys's homework for GIT
 Hey try to adding sentences
 
 Hi, another modifying contents
+
+Add some contents while in branch to file A
